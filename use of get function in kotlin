@@ -1,0 +1,8 @@
+fun main() {
+   var str="harshit rai"
+        //we can also save the character of str in another variable ....
+  val str_length=str.get(3)
+    println(str_length)
+    println(str.get(5))//it is a another way to get the charcter by using index  of string ..
+
+}
