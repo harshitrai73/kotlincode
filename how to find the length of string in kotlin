@@ -1,0 +1,8 @@
+fun main() {
+   var str="harshit rai"
+        //we can also save the length of str in another variable ....
+  val str_length=str.length
+    println(str_length)
+    println(str.length)//it is a another way to get length of string ..
+
+}
