@@ -1,0 +1,10 @@
+fun main() {
+   val name = "harshit rai "//here the val is a variable that hold the value of name variable .. val is immutable it can't be changed 
+    val cgpa=7.6
+    var branch_code="CSE070"//here var is also a variable that hold the value of branch code . var is mutable it can be changed
+    println("the name of student is : "+name)
+    //when you want to add string and some value or data so you need to put + sign .
+    println("the cgpa of student is : "+cgpa)
+    println("the bransh code of student is : "+branch_code)
+    
+}
